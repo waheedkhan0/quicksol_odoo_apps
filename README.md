@@ -1,0 +1,1 @@
+# quicksol_odoo_apps
