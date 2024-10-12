@@ -29,7 +29,7 @@ Key Features:
         'views/tenant_views.xml',
         'views/real_estate_menus.xml',
     ],
-'   license': 'LGPL-3',
+'license': 'LGPL-3',
 'images': ['static/description/banner.png'],
     'icon': 'icon.png',
     'installable': True,
